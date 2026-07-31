@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+datos-reales/
+capturas-originales/
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.sql
+*.pem
+*.key
