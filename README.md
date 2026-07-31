@@ -225,14 +225,13 @@ Para convertir la experiencia en un producto distribuible se propone desacoplar 
 
 Consulta:
 
-- [Créditos y contribuciones](CREDITOS.md)
-- [Aviso de uso](AVISO-DE-USO.md)
 - [Arquitectura](docs/ARQUITECTURA.md)
 - [Módulos](docs/MODULOS.md)
 - [Personalización](docs/PERSONALIZACION.md)
 - [Seguridad y privacidad](docs/SEGURIDAD-Y-PRIVACIDAD.md)
 - [Roadmap de producto](docs/ROADMAP.md)
 - [Guía para preparar capturas](images/README.md)
+- [Aviso de uso](AVISO-DE-USO.md)
 
 ## Autoría y créditos
 
