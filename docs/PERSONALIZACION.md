@@ -1,6 +1,6 @@
 # Personalización e implementación
 
-**Responsable:** Pamela Inostroza Fernández - Data Scientist Dirección de Innovación. pinostroza@uandes.cl
+**Responsable:** Pamela Inostroza Fernández - Data Scientist Dirección de Innovación. pinostroza@uandes.cl  
 **Créditos de la implementación original:** consulta [Créditos y contribuciones](../CREDITOS.md)
 
 ## Descubrimiento
