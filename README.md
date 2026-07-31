@@ -246,16 +246,13 @@ Consulta:
 
 ## Autoría y créditos
 
-**Pamela Inostroza**  
-Data Scientist de la Dirección de Innovación, Universidad de los Andes.
-
 La implementación institucional fue un trabajo colaborativo. El detalle de responsabilidades, diseño, base inicial y aportes funcionales se encuentra en [Créditos y contribuciones](CREDITOS.md).
 
 Datos de contacto y redes profesionales disponibles en el perfil de GitHub desde el cual se publica este repositorio.
 
 ## Aviso de autoría y propiedad
 
-© Pamela Inostroza. Caso de estudio y documentación de presentación.
+Caso de estudio y documentación de presentación.
 
 Las marcas, datos, diseños, documentos y componentes pertenecientes a terceros no forman parte de este repositorio. La disponibilidad comercial de una implementación debe quedar sujeta a la revisión de los derechos sobre el código y a los acuerdos contractuales correspondientes.
 
