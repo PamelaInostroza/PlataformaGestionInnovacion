@@ -6,6 +6,26 @@
 ![Producto](https://img.shields.io/badge/producto-configurable-0f766e)
 ![Stack](https://img.shields.io/badge/stack-Next.js_%7C_Django_%7C_PostgreSQL-2563eb)
 
+## Navegación
+
+- [Resumen](#resumen)
+- [En palabras simples](#en-palabras-simples)
+- [Recorrido visual](#recorrido-visual)
+  - [Acceso a la solución](#1-acceso-a-la-solución)
+  - [Ingreso y administración de datos](#2-ingreso-y-administración-de-datos)
+  - [Consulta y analítica](#3-consulta-y-analítica)
+  - [Herramientas especializadas](#4-herramientas-especializadas)
+- [Problema que resuelve](#problema-que-resuelve)
+- [Arquitectura del producto](#arquitectura-del-producto)
+- [Componentes](#componentes)
+- [Capacidades demostradas](#capacidades-demostradas)
+- [Personalización](#personalización)
+- [Modelo de implementación](#modelo-de-implementación)
+- [Modalidades](#modalidades)
+- [Tecnologías](#tecnologías)
+- [Estado y documentación](#estado)
+- [Autoría y créditos](#autoría-y-créditos)
+
 ## Resumen
 
 Plataforma integral para centralizar el ingreso, administración, seguimiento y visualización de proyectos, tecnologías, investigadores, instituciones e indicadores.
@@ -122,17 +142,7 @@ La plataforma convierte esas fuentes dispersas en un sistema conectado:
 
 ## Arquitectura del producto
 
-```mermaid
-flowchart LR
-    A[Usuarios internos] --> B[Sistema de ingreso<br/>Django]
-    B --> C[(PostgreSQL)]
-    C --> D[Portal institucional<br/>Next.js]
-    C --> E[Indicadores y reportes]
-    C --> F[API e integraciones]
-    G[Administradores] --> B
-    H[Investigadores] --> D
-    I[Público autorizado] --> D
-```
+![Arquitectura del producto](images/arquitectura-producto.svg)
 
 La separación entre administración y publicación permite adaptar ambos componentes de forma independiente y aplicar controles diferentes a usuarios internos, investigadores, administradores y público general.
 
