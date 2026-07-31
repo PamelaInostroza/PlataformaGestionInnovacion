@@ -1,6 +1,6 @@
 # Aviso de uso
 
-© Pamela Inostroza. Todos los derechos reservados sobre la documentación original de este caso de estudio, salvo los aportes y activos atribuidos a terceros.
+Todos los derechos reservados sobre la documentación original de este caso de estudio, salvo los aportes y activos atribuidos a terceros.
 
 Este repositorio tiene fines de presentación profesional. Su publicación no concede una licencia para copiar, vender, sublicenciar o reutilizar la implementación institucional, sus diseños, marcas, datos o documentación interna.
 
