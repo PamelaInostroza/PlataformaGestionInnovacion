@@ -49,7 +49,7 @@ Definiciones de indicadores, fórmulas, metas, periodicidad, segmentación y for
 - Puesta en producción.
 - Soporte y evolución.
 
-## Información necesaria para cotizar
+## Información necesaria para evaluar
 
 - Número de módulos.
 - Cantidad y complejidad de fuentes.
