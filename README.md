@@ -43,7 +43,7 @@ La plataforma permite ingresar y ordenar la información de una organización en
 
 Cada cliente puede adaptar los formularios, permisos, procesos, indicadores y apariencia a sus propias necesidades.
 
-![Flujo funcional del producto](images/flujo-producto.svg)
+![Flujo funcional del producto](images/flujo-producto.png)
 
 ## Recorrido visual
 
@@ -142,7 +142,7 @@ La plataforma convierte esas fuentes dispersas en un sistema conectado:
 
 ## Arquitectura del producto
 
-![Arquitectura del producto](images/arquitectura-producto.svg)
+![Arquitectura del producto](images/arquitectura-producto.png)
 
 La separación entre administración y publicación permite adaptar ambos componentes de forma independiente y aplicar controles diferentes a usuarios internos, investigadores, administradores y público general.
 
@@ -235,13 +235,14 @@ Para convertir la experiencia en un producto distribuible se propone desacoplar 
 
 Consulta:
 
+- [Créditos y contribuciones](CREDITOS.md)
+- [Aviso de uso](AVISO-DE-USO.md)
 - [Arquitectura](docs/ARQUITECTURA.md)
 - [Módulos](docs/MODULOS.md)
 - [Personalización](docs/PERSONALIZACION.md)
 - [Seguridad y privacidad](docs/SEGURIDAD-Y-PRIVACIDAD.md)
 - [Roadmap de producto](docs/ROADMAP.md)
 - [Guía para preparar capturas](images/README.md)
-- [Aviso de uso](AVISO-DE-USO.md)
 
 ## Autoría y créditos
 

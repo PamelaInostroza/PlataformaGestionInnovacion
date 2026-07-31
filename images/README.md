@@ -5,7 +5,9 @@ Esta carpeta contiene las capturas y diagramas seleccionados para el caso de est
 ## Inventario
 
 - `01-portada.png`: acceso al portal.
-- `flujo-producto.svg`: recorrido funcional del producto.
+- `flujo-producto.png`: recorrido funcional mostrado en GitHub y GitHub Pages.
+- `arquitectura-producto.png`: arquitectura modular mostrada en GitHub y GitHub Pages.
+- `flujo-producto.svg` y `arquitectura-producto.svg`: originales vectoriales editables.
 - `02-formularios-demo.png`: menú del sistema de ingreso con usuario demostrativo.
 - `03-ingreso-datos-demo.png`: formulario estructurado con usuario demostrativo.
 - `05-dashboardpublico.png`: indicadores públicos agregados.
