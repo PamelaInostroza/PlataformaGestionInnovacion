@@ -2,7 +2,7 @@
 
 Este documento identifica las responsabilidades conocidas detrás de la implementación institucional que dio origen al caso de estudio. Su objetivo es presentar las contribuciones con precisión y reconocer el carácter colaborativo del proyecto.
 
-## Pamela Inostroza (pinostroza@uandes.cl)
+## Pamela Inostroza
 
 **Rol profesional:** Data Scientist de la Dirección de Innovación, Universidad de los Andes
 
@@ -21,7 +21,7 @@ Este documento identifica las responsabilidades conocidas detrás de la implemen
 
 La definición de la lógica de datos fue un trabajo conjunto: cada dueño del dato aportó el conocimiento de su proceso y Pamela Inostroza lo tradujo a relaciones, reglas, validaciones e implementación técnica.
 
-## Josefina Jarpa (jjarpal@uandes.cl)
+## Josefina Jarpa
 
 **Área:** Comunicaciones
 
@@ -37,5 +37,3 @@ La definición de la lógica de datos fue un trabajo conjunto: cada dueño del d
 
 - Implementación inicial de la estructura de la base de datos.
 - Implementación de la base inicial de los formularios de ingreso de datos.
-
-> Pendiente para la versión definitiva: incorporar el nombre formal del equipo o proveedor, si existe autorización para publicarlo.
