@@ -231,18 +231,12 @@ Más detalles en [Personalización](docs/PERSONALIZACION.md).
 
 Este repositorio presenta un caso de estudio y una propuesta de producto. No contiene el código, datos, marcas, credenciales ni documentación confidencial de la implementación institucional original.
 
-Para convertir la experiencia en un producto distribuible se propone desacoplar las reglas específicas del cliente, crear una configuración por organización y utilizar exclusivamente datos demostrativos.
-
 Consulta:
 
 - [Créditos y contribuciones](CREDITOS.md)
 - [Aviso de uso](AVISO-DE-USO.md)
 - [Arquitectura](docs/ARQUITECTURA.md)
 - [Módulos](docs/MODULOS.md)
-- [Personalización](docs/PERSONALIZACION.md)
-- [Seguridad y privacidad](docs/SEGURIDAD-Y-PRIVACIDAD.md)
-- [Roadmap de producto](docs/ROADMAP.md)
-- [Guía para preparar capturas](images/README.md)
 
 ## Autoría y créditos
 
