@@ -29,6 +29,7 @@
 ## Resumen
 
 Plataforma integral para centralizar el ingreso, administración, seguimiento y visualización de proyectos, tecnologías, investigadores, instituciones e indicadores.
+[Video demostrativo] (https://www.youtube.com/watch?v=0453Vz7new4)
 
 La solución combina dos componentes:
 
