@@ -241,6 +241,8 @@ Consulta:
 
 ## Autoría y créditos
 
+La plataforma descrita en este caso de estudio es una obra de la Universidad de los Andes (Chile), titular de sus derechos. Fue desarrollada en la Dirección de Innovación por Pamela Inostroza Fernández, Josefina Jarpa y Karen Márquez. Este sitio la presenta como parte del portafolio profesional de una de sus autoras y no otorga licencia de uso del código ni de la plataforma. Consultas sobre licenciamiento: Dirección de Innovación, Universidad de los Andes.
+
 La implementación institucional fue un trabajo colaborativo. El detalle de responsabilidades, diseño, base inicial y aportes funcionales se encuentra en [Créditos y contribuciones](CREDITOS.md).
 
 Datos de contacto y redes profesionales disponibles en el perfil de GitHub desde el cual se publica este repositorio.
